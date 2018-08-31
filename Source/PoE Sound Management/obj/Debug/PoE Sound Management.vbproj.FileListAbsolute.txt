@@ -1,0 +1,11 @@
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\bin\Debug\PoE Sound Management.exe
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\bin\Debug\PoE Sound Management.pdb
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\bin\Debug\PoE Sound Management.xml
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.vbprojResolveAssemblyReference.cache
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE_Sound_Management.Form1.resources
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE_Sound_Management.Resources.resources
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.vbproj.GenerateResource.cache
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.vbproj.CoreCompileInputs.cache
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.exe
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.xml
+C:\Users\kwing\Desktop\Projects\Source\PoE Sound Management\PoE Sound Management\obj\Debug\PoE Sound Management.pdb
